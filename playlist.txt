@@ -1,11 +1,31 @@
 #EXTM3U
-#EXTINF:-1 group-title="News",CNN
+#EXTINF:-1 group-title="News",CNN HD
 https://cdn.livenewsplayer.com/hls/cnnsd/cnnsd/playlist.m3u8?secstarttime=1768673631&secendtime=1768680831&sechash=iH0YDarUAxf2YNMNiOjZ79D6xSZCVDNi6pLA2peadu8=
-#EXTINF:-1 group-title="Entertainment",BBC ONE HD
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
-#EXTINF:-1 group-title="Entertainment",BBC TWO HD
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_hd.m3u8
-#EXTINF:-1 group-title="Entertainment",CBBC HD
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
-#EXTINF:-1 group-title="Entertainment",CBEEBIES HD
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies.m3u8
+#EXTINF:-1 group-title="News",CNN SD
+https://tvpass.org/live/CNN/sd
+#EXTINF:-1 group-title="Live",Animal Planet US East
+https://tvpass.org/live/AnimalPlanetEast/sd
+#EXTINF:-1 tvg-id="cspan" tvg-name="C-SPAN" group-title="News",C-SPAN
+https://tvpass.org/live/CSPAN/sd
+#EXTINF:-1 tvg-id="cspan-2" tvg-name="C-SPAN 2" group-title="News",C-SPAN 2
+https://tvpass.org/live/CSPAN2/sd
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" group-title="Sports",ESPN
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-id="espn-news" tvg-name="ESPN News" group-title="Sports",ESPN News
+https://tvpass.org/live/ESPNews/sd
+#EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U" group-title="Sports",ESPN U
+https://tvpass.org/live/ESPNU/sd
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2" group-title="Sports",ESPN2
+https://tvpass.org/live/ESPN2/sd
+#EXTINF:-1 group-title="NBA", NBA TV
+https://tvpass.org/live/NBATV/sd
+#EXTINF:-1 group-title="NBA", NBA 1
+https://tvpass.org/live/NBA01/sd
+#EXTINF:-1 group-title="NBA", NBA 2
+https://tvpass.org/live/NBA02/sd
+#EXTINF:-1 group-title="NBA", NBA 3
+https://tvpass.org/live/NBA03/sd
+#EXTINF:-1 group-title="NBA", NBA 4
+https://tvpass.org/live/NBA04/sd
+#EXTINF:-1 group-title="NBA", NBA 5
+https://tvpass.org/live/NBA05/sd
