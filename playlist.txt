@@ -30,4 +30,4 @@ https://tvpass.org/live/NBA04/sd
 #EXTINF:-1 group-title="NBA", NBA 5
 https://tvpass.org/live/NBA05/sd
 #EXTINF:-1 group-title="NFL", Pro Bowl
-https://red6.lumenglide.shop/playlist/44345/a.ziyad4.space/caxi
+https://red7.astrovortex.space/playlist/44345/load-playlist
